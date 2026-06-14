@@ -19,7 +19,7 @@ sqlite3 nome_do_banco.sqlite
 
 5. Abra o arquivo `conecta.php` e configure a variável `$nome_banco` com o nome do arquivo do banco criado:
 
-```php
+```php-S localhost:8000
 $nome_banco = 'nome_do_banco.sqlite';
 ```
 
